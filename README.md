@@ -1,2 +1,5 @@
 # animo-bot
-Animo-bot is a Twitter bot that posts some gif and some images based on the color pallete.
+
+
+[Animo Bot](https://Twitter.com) is a Twitter bot that posts some gifs and some images based on the color pallete.
+
